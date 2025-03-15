@@ -1,7 +1,7 @@
 Cursor Pro 账号池共享源码
 
 
-Html需自行绘制，python文件中仅有主要代码如   机器码更新，自动替换token
+Html需自行绘制，python文件中仅有主要逻辑代码如   机器码更新，自动替换token
 
 
 
